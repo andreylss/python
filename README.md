@@ -22,9 +22,3 @@ Its purpose is to gather practical examples, experiments, and reusable code rela
 - Improve understanding of graphical analysis for real-world datasets
 - Serve as a reference for future visualization projects
 
----
-
-## 📂 Repository Structure
-
-Example structure:
-
